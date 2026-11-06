@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
-
 I am a PhD student working at the intersection of Computational Intelligence and Quantum Computing.
 
 My research focuses on developing innovative computational methodologies to address some of the key challenges that limit the efficiency and reliability of quantum computation.
