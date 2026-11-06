@@ -7,22 +7,14 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
+<p>
 You can also find my publications on
-[Google Scholar]({{ site.author.googlescholar }}).
+<a href="{{ site.author.googlescholar }}">Google Scholar</a>.
+</p>
 {% endif %}
 
-{% include base_path %}
+{% assign publications = site.publications | sort: "date" | reverse %}
 
-{% assign all_publications = site.publications | sort: "date" | reverse %}
-
-{% if all_publications.size > 0 %}
-
-{% for post in all_publications %}
+{% for post in publications %}
   {% include archive-single.html %}
 {% endfor %}
-
-{% else %}
-
-No publications were found in the collection.
-
-{% endif %}
