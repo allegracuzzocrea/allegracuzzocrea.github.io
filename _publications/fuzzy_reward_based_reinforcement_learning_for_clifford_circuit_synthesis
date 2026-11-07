@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/fuzzy-reward-based-rl-clifford-synthesis
 date: 2025-07-10
-venue: "2025 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE 2025), Reims, France"
+venue: "2025 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE), Reims, France"
 authors: "G. Acampora, A. Cuzzocrea, M. Lapegna, R. Schiattarella and A. Vitiello"
 citation: 'G. Acampora, A. Cuzzocrea, M. Lapegna, R. Schiattarella and A. Vitiello, "Fuzzy Reward-based Reinforcement Learning for Clifford Circuit Synthesis," 2025 IEEE International Conference on Fuzzy Systems (FUZZ), Reims, France, 2025, pp. 1-6, doi: 10.1109/FUZZ62266.2025.11152245.'
 ---
