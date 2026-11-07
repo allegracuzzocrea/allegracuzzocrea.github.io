@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/rl-for-cilfford-synthesis
 date: 2025-06-16
-venue: "2025 IEEE Symposium Series on Computational Intelligence, Trondheim, Norway."
+venue: "2025 IEEE Symposium Series on Computational Intelligence (SSCI), Trondheim, Norway."
 authors: "G. Acampora, A. Cuzzocrea, M. Lapegna, R. Schiattarella and A. Vitiello"
 citation: 'G. Acampora, A. Cuzzocrea, M. Lapegna, R. Schiattarella and A. Vitiello, "Generalizing Reinforcement Learning-Based Quantum Circuit Synthesis across Multiple Topologies," 2025 IEEE Symposium for Multidisciplinary Computational Intelligence Incubators (MCII), Trondheim, Norway, 2025, pp. 1-7, doi: 10.1109/MCII64973.2025.11032620.'
 ---
