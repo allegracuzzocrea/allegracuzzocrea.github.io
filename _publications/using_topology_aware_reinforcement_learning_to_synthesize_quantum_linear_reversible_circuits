@@ -6,5 +6,5 @@ permalink: /publication/rl-for-linear-function-synthesis
 date: 2025-11-14
 venue: "2025 IEEE International Joint Conference on Neural Networks (IJCNN 2025), Rome, Italy"
 authors: "G. Acampora, A. Cuzzocrea, M. Lapegna, R. Schiattarella and A. Vitiello"
-citation: "G. Acampora, A. Cuzzocrea, M. Lapegna, R. Schiattarella and A. Vitiello, "Using Topology-Aware Reinforcement Learning to Synthesize Quantum Linear Reversible Circuits," 2025 International Joint Conference on Neural Networks (IJCNN), Rome, Italy, 2025, pp. 1-8, doi: 10.1109/IJCNN64981.2025.11227556."
+citation: 'G. Acampora, A. Cuzzocrea, M. Lapegna, R. Schiattarella and A. Vitiello, "Using Topology-Aware Reinforcement Learning to Synthesize Quantum Linear Reversible Circuits," 2025 International Joint Conference on Neural Networks (IJCNN), Rome, Italy, 2025, pp. 1-8, doi: 10.1109/IJCNN64981.2025.11227556.'
 ---
